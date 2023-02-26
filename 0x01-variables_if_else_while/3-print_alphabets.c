@@ -20,6 +20,7 @@ int main(void)
 		putchar(i);
 	}
 
+	putchar('\n');
 /* my code goes there */
 	return (0);
 }
