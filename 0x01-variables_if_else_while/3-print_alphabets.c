@@ -8,19 +8,18 @@
 /* betty style doc for function main goes there */
 int main(void)
 {
-	char aZ;
-	char AZ;
+	char i;
 
-	for (aZ = 'a' ; aZ <= 'z' ; aZ++)
+	for (i = 'a'; i <= 'z'; i++)
 	{
-		putchar (aZ);
+		putchar(i);
 	}
-	for (AZ = 'A' ; AZ <= 'Z' ; AZ++)
-	{
-		putchar (AZ);
 
-		putchar ('\n');
+	for (i = 'A'; i <= 'Z'; i++)
+	{
+		putchar(i);
 	}
+
 /* my code goes there */
 	return (0);
 }
