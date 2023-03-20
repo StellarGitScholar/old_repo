@@ -1,1 +1,1 @@
-This repo is for my C project
+This repository is for my C projects
