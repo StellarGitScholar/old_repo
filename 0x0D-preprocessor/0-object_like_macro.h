@@ -2,7 +2,7 @@
 #define MACRO_H
 
 /**
- *Descriptiom/Type: Header file
+ *Desc  - Header file
  */
 
 #define SIZE 1024
