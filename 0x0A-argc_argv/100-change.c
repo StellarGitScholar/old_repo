@@ -4,8 +4,10 @@
 /**
  * main - function that prints min coin needed to change a given
  *	amount
- * @argc: command that counts all arguements supplied to the function
- * @argv: command that saves the value of  all arguements supplied to the function
+ * @argc: command that counts all arguements supplied to the
+ *	function
+ * @argv: command that saves the value of  all arguements
+ *	supplied to the function
  * Return: Always 0 (success)
 **/
 
