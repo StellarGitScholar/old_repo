@@ -9,8 +9,6 @@
  *@age: the age of the dog
  *
  *@owner: the name of the owner of the dog
- *
- *@dog: a new type
  */
 
 typedef struct dog
