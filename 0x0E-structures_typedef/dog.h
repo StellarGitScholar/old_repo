@@ -8,14 +8,16 @@
  *
  *@age: the age of the dog
  *
- *@owner: the name of the owner of thw dog
+ *@owner: the name of the owner of the dog
+ *
+ *@dog: a new type
  */
 
-struct dog
+typedef struct dog
 {
 	char *name;
 	float age;
 	char *owner;
-}
+} dog;
 
 #endif /* DOG_H */
