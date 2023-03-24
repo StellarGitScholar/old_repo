@@ -3,6 +3,10 @@
 
 /**
  *description/type - Header file
+ *
+ *@name: name to be printed
+ *
+ *@f: a pointer
  */
 
 void print_name(char *name, void (*f)(char *));
