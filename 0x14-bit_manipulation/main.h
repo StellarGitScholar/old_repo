@@ -3,6 +3,11 @@
 
 /**
  *description/type - Header file
+ *
+ *@b: pointer to a string of chars containing 0 and 1
+ *
+ *Return: the converted number or 0 if certain conditions
+ *	are not met
  */
 
 unsigned int binary_to_uint(const char *b);
